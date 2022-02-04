@@ -4,7 +4,7 @@
 }
 
 #main-navbar {
-    background-color: #2196f3;
+    background-color: #075392;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -24,7 +24,7 @@
 
 #main-navbar ul li:hover{
     background-color: white;
-    color: #2196f3;
+    color: #075392;
 }
 
 #main-navbar ul li a{
@@ -34,7 +34,7 @@
 }
 
 #main-navbar ul li:hover a{
-    color: #2196f3;
+    color: #075392;
 }
 
 #main-img {
@@ -60,7 +60,7 @@
 }
 
 .active-nav a {
-    color: #2196f3 !important;
+    color: #075392 !important;
 }
 
 .main-intro-text {
@@ -76,7 +76,6 @@
 }
 
 .goals-title {
-    font-size: larger;
     margin-left: 40px;
     margin-right: 40px;
     text-align: center;
